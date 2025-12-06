@@ -1,0 +1,8 @@
+{
+  "name": "Entomancer's Atlas",
+  "description": "A dark fantasy ecological analyzer that turns garden photos into epic faction maps and stories using Gemini Vision and Audio.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
